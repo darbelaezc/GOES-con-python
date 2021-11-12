@@ -5,6 +5,7 @@ Requisitos:
 1. Python 3
 2. Jupyter notebook o similar
 3. Librerías: 
+
   3.1 numpy
   3.2 Matplotlib
   3.3 Basemap de mpl_toolkits (https://matplotlib.org/basemap/)
